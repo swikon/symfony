@@ -1,0 +1,3 @@
+kayes_test_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: kayesTestBundle:Default:index }

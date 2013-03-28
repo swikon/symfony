@@ -1,0 +1,7 @@
+parameters:
+#    kayes_test.example.class: kayes\Bundle\TestBundle\Example
+
+services:
+#    kayes_test.example:
+#        class: %kayes_test.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
