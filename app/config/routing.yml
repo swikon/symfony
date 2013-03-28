@@ -1,0 +1,4 @@
+kayes_test:
+    resource: "@kayesTestBundle/Resources/config/routing.yml"
+    prefix:   /
+
